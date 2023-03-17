@@ -1,16 +1,23 @@
-### Hi there 👋
+<div align=center>
+<h1> <b>Marco Antonio</b>  < Web-Dev > <b>|</b> </h1> 
 
-<!--
-**Marco-A-C-Pereira/Marco-A-C-Pereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+ <b> Desenvolvedor Web apaixonado pelo que faz, tomado sempre pela curiosidade e vontade de se aprimorar a cada dia com 1 ano de estudos na área utilizando HTML/SCSS/Typescript e Angular (Trocando o foco de estudos para React) <b>
+</p>
 
-Here are some ideas to get you started:
+<h2> Meus Projetos </h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marco-A-C-Pereira&repo=Consulta-animes)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marco-A-C-Pereira&repo=Trellolike)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marco-A-C-Pereira&repo=Portfolio)](https://github.com/anuraghazra/github-readme-stats) 
+
+<h2>Sobre mim</h2>  
+
+Ironicamente gosto tanto de TI como de psicologia, tanto que estou prestes a me graduar na psicologia busco uma segundad graduação em ADS dessa vez 
+
+ 📚 Estudando... Typescript e React
+ 😵 Precisando de ajuda com ... UI
+ 💞 Meus hobbies são ... Musculação Ciclismo Jogos e Leitura 
+ 💬 Gosta de conversar por ... chamada
+
+</div>
