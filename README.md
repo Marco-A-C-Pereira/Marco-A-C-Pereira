@@ -1,5 +1,5 @@
 <div align=center>
-<h1> <b>Marco Antonio</b>  < Web-Dev > <b>|</b> </h1> 
+<h1> <b>Marco Antonio</b>  < Web-Dev > <b>|</b> </h1>  
 
 <p>
  <b> Desenvolvedor Web apaixonado pelo que faz, tomado sempre pela curiosidade e vontade de se aprimorar a cada dia com 1 ano de estudos na área utilizando HTML/SCSS/Typescript e Angular (Trocando o foco de estudos para React) <b>
