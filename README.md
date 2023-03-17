@@ -7,9 +7,9 @@
 
 <h2> Meus Projetos </h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marco-A-C-Pereira&repo=Consulta-animes)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marco-A-C-Pereira&repo=Trellolike)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marco-A-C-Pereira&repo=Portfolio)](https://github.com/anuraghazra/github-readme-stats) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marco-A-C-Pereira&repo=Consulta-animes)](https://github.com/Marco-A-C-Pereira/Consulta-animes)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marco-A-C-Pereira&repo=Trellolike)](https://github.com/Marco-A-C-Pereira/Trellolike)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marco-A-C-Pereira&repo=Portfolio)](https://github.com/Marco-A-C-Pereira/Portfolio) 
 
 <h2>Sobre mim</h2>  
 
