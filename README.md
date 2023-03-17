@@ -15,9 +15,9 @@
 
 Ironicamente gosto tanto de TI como de psicologia, tanto que estou prestes a me graduar na psicologia busco uma segundad graduação em ADS dessa vez 
 
- 📚 Estudando... Typescript e React
- 😵 Precisando de ajuda com ... UI
- 💞 Meus hobbies são ... Musculação Ciclismo Jogos e Leitura 
- 💬 Gosta de conversar por ... chamada
+ <p>📚 Estudando... Typescript e React </p>
+ <p>😵 Precisando de ajuda com ... UI </p>
+ <p>💞 Meus hobbies são ... Musculação Ciclismo Jogos e Leitura </p>
+ <p>💬 Gosta de conversar por ... chamada </p>
 
 </div>
