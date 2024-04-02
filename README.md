@@ -9,9 +9,9 @@
 
 <h2> Meus Projetos </h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marco-A-C-Pereira&repo=Consulta-animes&theme=tokyonight)](https://github.com/Marco-A-C-Pereira/Consulta-animes)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marco-A-C-Pereira&repo=Vaichover&theme=tokyonight)](https://github.com/Marco-A-C-Pereira/Vaichover)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marco-A-C-Pereira&repo=Portfolio&theme=tokyonight)](https://github.com/Marco-A-C-Pereira/Portfolio) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marco-A-C-Pereira&repo=Consulta-animes&theme=tokyonight)]([https://github.com/Marco-A-C-Pereira/Consulta-animes](https://github.com/Marco-A-C-Pereira/100-Days-CSS))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marco-A-C-Pereira&repo=Vaichover&theme=tokyonight)]([https://github.com/Marco-A-C-Pereira/Vaichover](https://github.com/Marco-A-C-Pereira/SimpleProducts))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marco-A-C-Pereira&repo=Portfolio&theme=tokyonight)]([https://github.com/Marco-A-C-Pereira/Portfolio](https://github.com/Marco-A-C-Pereira/casinha_bot)) 
 
 <h2>Sobre mim</h2>  
 
