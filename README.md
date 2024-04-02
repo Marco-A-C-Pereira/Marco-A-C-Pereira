@@ -1,10 +1,10 @@
 <div align=center>
 <h1> <b>Marco Antonio</b>  < Web-Dev > <b>|</b> </h1>  
  
-[![My Skills](https://skillicons.dev/icons?i=html,typescript,sass,angular,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,react,nextjs.typescript,tailwind,sass.py.nodejs.graphql)](https://skillicons.dev)
  
 <p>
- <b> Desenvolvedor Web apaixonado pelo que faz, tomado sempre pela curiosidade e vontade de se aprimorar a cada dia com 1 ano de estudos na área utilizando HTML/SCSS/Typescript e Angular (Trocando o foco de estudos para React) <b>
+ <b> Desenvolvedor Web apaixonado pelo que faz, tomado sempre pela curiosidade e vontade de se aprimorar a cada dia com 1 ano de estudos na área utilizando HTML/SCSS/Typescript e React <b>
 </p>
 
 <h2> Meus Projetos </h2>
@@ -15,7 +15,7 @@
 
 <h2>Sobre mim</h2>  
 
-Ironicamente gosto tanto de TI como de psicologia, tanto que estou prestes a me graduar na psicologia busco uma segundad graduação em ADS dessa vez 
+Ironicamente gosto tanto de TI como de psicologia, tanto que estou prestes a me graduar na psicologia busco uma segunda graduação em ADS dessa vez 
 
  <p>📚 Estudando... Typescript e React </p>
  <p>😵 Precisando de ajuda com ... UI </p>
